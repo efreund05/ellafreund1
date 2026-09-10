@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img" aria-labelledby="title desc">
+  <title id="title">Ella Freund portrait placeholder</title>
+  <desc id="desc">Minimal grayscale illustrated profile placeholder to replace with a personal photo.</desc>
+  <rect width="600" height="760" rx="36" fill="#EDEBE6"/>
+  <circle cx="300" cy="235" r="110" fill="#C4C2BA"/>
+  <path d="M120 620c0-110 80-210 180-210s180 100 180 210v40H120Z" fill="#8F8B84"/>
+  <rect x="90" y="90" width="420" height="580" rx="28" fill="none" stroke="#1E1E1C" stroke-opacity=".15" stroke-width="12"/>
+  <text x="300" y="720" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" fill="#666661">Replace with Ella's photo</text>
+</svg>
